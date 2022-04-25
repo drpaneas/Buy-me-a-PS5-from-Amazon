@@ -19,8 +19,8 @@ You can probably send a PR to use an ENV variable -- I'm too lazy to make any mo
 Compile it the same way you would with any Go program.
 
 ```shell
-go run main.go  # to compile it
-go build.go     # to create a binary,
+go run main.go  # to run it
+go build.go     # or, if you prefer a binary
 ```
 
 This should work fine.
